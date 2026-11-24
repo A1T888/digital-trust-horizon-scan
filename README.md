@@ -37,5 +37,4 @@ A horizon scan of digital-trust and platform-safety regulation across seven juri
 
 ## Notes
 
-- Independent portfolio work by a PMP-certified project and product delivery professional. Public sources only; scores are structured analyst judgements, not audit findings. Point-in-time as of November 2026.
 - Licensed under [CC BY 4.0](LICENSE).
