@@ -2,6 +2,8 @@
 
 A horizon scan of digital-trust and platform-safety regulation across seven jurisdictions, paired with an original five-dimension assessment framework applied to three live platform practices. Built entirely on public, dated sources — 15 footnoted references including regulator publications, parliamentary answers, enforcement decisions and a BMJ-published study.
 
+![Digital Trust & Platform Risk — Trend Radar, November 2026](assets/horizon_scan_radar.png)
+
 ## What this demonstrates
 
 - **Horizon scanning & research** — signal collection and clustering across Singapore, the EU, UK, Australia, Indonesia, India and China (Nov 2025 – Nov 2026), plotted on a trend radar by horizon and regulatory posture.
@@ -13,9 +15,9 @@ A horizon scan of digital-trust and platform-safety regulation across seven juri
 
 | File | What it is |
 |---|---|
-| `HORIZON_SCAN.md` | Full scan, web-readable (footnotes render on GitHub) |
-| `Emerging_Digital_Trust_Horizon_Scan_Nov2026.docx` | Print-ready Word version |
-| `assets/horizon_scan_radar.png` | Trend radar visual (standalone) |
+| [HORIZON_SCAN.md](HORIZON_SCAN.md) | Full scan, web-readable (footnotes render on GitHub) |
+| [Emerging_Digital_Trust_Horizon_Scan_Nov2026.docx](Emerging_Digital_Trust_Horizon_Scan_Nov2026.docx) | Print-ready Word version |
+| [assets/horizon_scan_radar.png](assets/horizon_scan_radar.png) | Trend radar visual (standalone) |
 
 ## Headline findings
 
